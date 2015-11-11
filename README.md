@@ -1,4 +1,4 @@
-# jQuery Scolled Into View
+# jQuery Scrolled Into View
 
 This script checks if the element is visible on screen and attach on it, actions to let you build some effect like parallax, animation when enter on screen, whatever.
 
